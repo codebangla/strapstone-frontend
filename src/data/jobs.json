@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "Full-stack developer .NET / C # / Angular / React / Vue.js (m / f / d)",
+      "company_name": "Pixel Gmbh",
+      "company_logo_url": "https://fakeimg.pl/80x40",
+      "location": "Munich",
+      "posted_time": "2/1/2022"
+    },
+    {
+      "id": 2,
+      "title": "Backend developer .NET / C # ",
+      "company_name": "Zbit Gmbh",
+      "company_logo_url": "https://fakeimg.pl/80x40",
+      "location": "Berlin",
+      "posted_time": "5/1/2022"
+    },
+    {
+      "id": 3,
+      "title": "Solution Architect ",
+      "company_name": "Allianz",
+      "company_logo_url": "https://fakeimg.pl/80x40",
+      "location": "Nuremberg",
+      "posted_time": "5/1/2022"
+    }
+  ]
