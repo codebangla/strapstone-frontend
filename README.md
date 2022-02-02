@@ -1,11 +1,20 @@
 # Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
+Strapstone is a Job portal Prototype application which is developed using Angular 13, ASP.NET Core 5.0 and SQL Server 14.
 
 ## How to run
 
 Clone this project and then `npm install` and then
-run `ng serve -o` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+run `ng serve -o` for a dev server. Navigate to `http://localhost:4200/`. 
+
+This just the source code of the frontend. No backend code was provided. Therefore, no data will be shown after running this Angular app.
+
+## Some Snapshots of the application
+
+Home page without login
+
+(https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/home-page-without-login.png)
+
 
 
 
