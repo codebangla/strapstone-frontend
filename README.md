@@ -13,7 +13,7 @@ This just the source code of the frontend. No backend code was provided. Therefo
 
 Home page without login
 
-(https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/home-page-without-login.png)
+![ezcv logo](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/home-page-without-login.png)
 
 
 
