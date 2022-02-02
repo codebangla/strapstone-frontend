@@ -1,6 +1,6 @@
-# Frontend
+# Strapstone
 
-Strapstone is a Job portal Prototype application which is developed using Angular 13, ASP.NET Core 5.0 and SQL Server 14.
+This is a Job portal Prototype application which is developed using Angular 13, ASP.NET Core 5.0 and SQL Server 14.
 
 ## How to run
 
@@ -13,7 +13,7 @@ This just the source code of the frontend. No backend code was provided. Therefo
 
 Home page without login
 
-![ezcv logo](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/home-page-without-login.png)
+![1](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/home-page-without-login.png)
 
 
 
