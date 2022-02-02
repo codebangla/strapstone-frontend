@@ -1,6 +1,6 @@
 
-import { Component, OnInit } from '@angular/core';
-import { Observable } from 'rxjs';
+import { Component, EventEmitter, OnInit, Output } from '@angular/core';
+import { first, Observable } from 'rxjs';
 import { Job } from './../../../models/job';
 import { JobService } from './../../../services/job.service';
 
@@ -12,7 +12,8 @@ import { JobService } from './../../../services/job.service';
 export class JobListComponent implements OnInit {
 
   jobs: Job[] = [];
-
+  job!: Job;
+  
   constructor(private jobService: JobService) { }
 
   ngOnInit(): void {
@@ -22,5 +23,17 @@ export class JobListComponent implements OnInit {
       }
     )
   }
+  deleteJob(id: number) {
+    let indexToBeRemoved = this.jobs.findIndex((x) => (x.id === id));
+    if (indexToBeRemoved != -1){
+      this.jobs.splice(indexToBeRemoved, 1);
+      }
 
+    this.jobService.deleteJob(id).subscribe(
+      (data: Job) => {
+        this.job = data;
+      }
+    );
+  }
+  
 }

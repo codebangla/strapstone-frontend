@@ -1,0 +1,41 @@
+<div class="container">
+    <!-- <p>Job number is #{{job.id}}</p> -->
+    <h2>{{job.title}}</h2>
+    <h2>{{job.company_name}}</h2>
+    <p>{{job.company_address}}</p>
+
+    <div class="card mb-3">
+        <div class="card-header display-6 py-3">
+            Description
+        </div>
+        <div class="card-body">
+            <p class="card-text">{{job.description}}</p>
+        </div>
+    </div>
+    <div class="card mb-3">
+        <div class="card-header display-6 py-3">
+            Requirement
+        </div>
+        <div class="card-body">
+            <p class="card-text">{{job.requirement}}</p>
+        </div>
+    </div>
+    <div class="card mb-3">
+        <div class="card-header display-6 py-3">
+            Qualification
+        </div>
+        <div class="card-body">
+            <p class="card-text">{{job.qualification}}</p>
+        </div>
+    </div>
+    <div class="card mb-3">
+        <div class="card-header display-6 py-3">
+            Salary
+        </div>
+        <div class="card-body">
+            <p class="card-text">€ {{job.offer}} gross/year</p>
+        </div>
+    </div>
+
+    <button (click)='onBack()' class="btn btn-primary">Back</button>
+</div>
