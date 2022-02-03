@@ -14,12 +14,26 @@ This just the source code of the frontend. No backend code was provided. Therefo
 Home page without login
 
 ![1](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/home-page-without-login.png)
+Login Page
+
 ![2](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/login-page.png)
-![1](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/register.png)
-![1](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/home-page-without-login.png)
-![1](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/home-page-without-login.png)
-![1](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/home-page-without-login.png)
-![1](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/home-page-without-login.png)
+Register Page
+
+![3](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/register.png)
+Home Page after logged in
+Add job
+
+![4](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/add-job.png)
+Job Detail
+
+![5](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/job-detail.png)
+Job Update
+
+![6](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/job-update.png)
+
+Swagger API
+
+![7](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/home-page-without-login.png)
 
 
 
