@@ -28,6 +28,8 @@ Register Page
 
 ![3](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/register-page.png)
 Home Page after logged in
+
+![3](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/home-page-after-logged-in.png)
 Add job
 
 ![4](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/add-job.png)
