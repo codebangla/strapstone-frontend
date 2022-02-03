@@ -3,7 +3,9 @@
 This is a Job portal Prototype application which is developed using Angular 13, ASP.NET Core 5.0 and SQL Server 14.
 
 -Backend Developed using DTO, Repository, UnitofWork pattern.
+
 -Backend generates Bearer token and can handle different types of exceptions.
+
 -The app has Authentication and Authorization, CRUD, Toast notification features.
 
 
