@@ -14,6 +14,12 @@ This just the source code of the frontend. No backend code was provided. Therefo
 Home page without login
 
 ![1](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/home-page-without-login.png)
+![2](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/login-page.png)
+![1](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/register.png)
+![1](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/home-page-without-login.png)
+![1](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/home-page-without-login.png)
+![1](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/home-page-without-login.png)
+![1](https://github.com/codebangla/strapstone-frontend/blob/master/src/assets/images/home-page-without-login.png)
 
 
 
